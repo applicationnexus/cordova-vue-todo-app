@@ -1,4 +1,4 @@
-# vue-ionic-todo
+# cordova-vue-todo
 
 A Vue.js project
 
