@@ -105,12 +105,12 @@
       "cordova-plugin-whitelist": {},
       "cordova-plugin-geolocation": {},
       "cordova-plugin-facebook4": {
-        "APP_ID": "1722261254587291",
+        "APP_ID": "XXXXXXXXXXXX",
         "APP_NAME": "Groceries Marketplace"
       },
       "cordova-plugin-camera": {},
       "cordova-plugin-googleplus": {
-        "REVERSED_CLIENT_ID": "com.googleusercontent.apps.1065978663438-aoak0u1s1guvqbjgdlh4332ijru90jfd",
+        "REVERSED_CLIENT_ID": "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
         "PLAY_SERVICES_VERSION": "11.8.0"
       },
       "cordova-plugin-local-notification": {}
