@@ -1,0 +1,2 @@
+webpackJsonp([169],{ZEXt:function(n,t,e){"use strict";function o(n,t){n.addEventListener("statusTap",function(){t.read(function(){var e=n.document.elementFromPoint(n.innerWidth/2,n.innerHeight/2);if(e){var o=e.closest("ion-content");o&&o.componentOnReady().then(function(){t.write(function(){return o.scrollToTop(300)})})}})})}Object.defineProperty(t,"__esModule",{value:!0}),e.d(t,"startStatusTap",function(){return o})}});
+//# sourceMappingURL=169.63d8a61121717c483abb.js.map
