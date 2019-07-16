@@ -14,7 +14,7 @@ Todo uses a number of open source projects to work properly:
 Install the dependencies and plugins and then platforms.
 
 ```sh
-$ cd ionic-vue-todo-app
+$ cd cordova-vue-todo-app
 # install dependencies
 $ npm install
 
