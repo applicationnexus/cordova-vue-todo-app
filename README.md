@@ -1,30 +1,51 @@
 # vue-ionic-todo
 
-> A Vue.js project
+A Vue.js project
 
-## Build Setup
+### Tech
 
-``` bash
+Todo uses a number of open source projects to work properly:
+
+* [cordova] - Apache Cordova is a mobile application development framework.
+* [Vue.js] - Vue.js is an open-source JavaScript framework.
+
+### Installation
+
+Install the dependencies and plugins and then platforms.
+
+```sh
+$ cd ionic-vue-todo-app
 # install dependencies
-npm install
+$ npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+$ npm run dev
 
 # build for production with minification
-npm run build
+$ npm run build
 
 # build for production and view the bundle analyzer report
-npm run build --report
+$ npm run build --report
 
 # run unit tests
-npm run unit
+$ npm run unit
 
 # run e2e tests
-npm run e2e
+$ npm run e2e
 
 # run all tests
-npm test
+$ npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### Plugins
+
+Todo is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+
+| Plugin | URL |
+| ------ | ------ |
+| Facebook Connect | https://github.com/jeduan/cordova-plugin-facebook4 |
+| Google SignIn | https://github.com/EddyVerbruggen/cordova-plugin-googleplus |
+| Local Notification | https://github.com/katzer/cordova-plugin-local-notifications |
+
+
